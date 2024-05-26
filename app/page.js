@@ -1,9 +1,9 @@
-import HeroSection from "./components/HeroSection";
-import Navbar from "./components/Navbar";
-import AboutSection from "./components/AboutSection";
-import ProjectsSection from "./components/ProjectsSection";
-import EmailSection from "./components/EmailSection";
-import Footer from "./components/Footer";
+import HeroSection from "./Components/HeroSection";
+import Navbar from "./Components/Navbar";
+import AboutSection from "./Components/AboutSection";
+import ProjectsSection from "./Components/ProjectsSection";
+import EmailSection from "./Components/EmailSection";
+import Footer from "./Components/Footer";
 // import AchievementsSection from "./components/AchievementsSection";
 
 export default function Home() {
